@@ -1,0 +1,14 @@
+Source PCB Design Panel_Sensores.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Temperature sensor_Thermodeep.PrjPcb]
+   Generated File[Panel_Sensores.TXT]
+   Generated File[Panel_Sensores.LDP]
+   Generated File[Panel_Sensores.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:15:19 p. m. On 12/06/2020

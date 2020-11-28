@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TermoDeep.PcbDoc   16/09/2020  5:40:52 p. m.
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TermoDeep.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             70        PTH        0.00inch (0.00mm)
+T2      30mil (0.749mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T3      35mil (0.899mm)                                           Round             17        PTH        0.00inch (0.00mm)
+T4      36mil (0.919mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T5      39mil (1.001mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T6      43mil (1.1mm)                                             Round             40        PTH        0.00inch (0.00mm)
+T7      53mil (1.349mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T8      74mil (1.887mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T9      91mil (2.301mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T10     118mil (3mm)                                              Round             2         PTH        0.00inch (0.00mm)
+T11     87mil (2.2mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              155
+
+Total Processing Time (hh:mm:ss) : 00:00:00

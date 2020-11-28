@@ -1,0 +1,162 @@
+*************************************************************
+FileName = Panel_Sensores.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : Panel_Sensores.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Panel_Sensores.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D15
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Panel_Sensores.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Panel_Sensores.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Panel_Sensores.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Route Tool Path
+      File : Panel_Sensores.GM7
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Panel_Sensores.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D18
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TermoDeep.PrjPcb]
+   Generated File[TermoDeep.TXT]
+   Generated File[TermoDeep.LDP]
+   Generated File[TermoDeep.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:40:52 p. m. On 16/09/2020

@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\Cloud DATA\Proyectos DSD\HARDWARE\TermoDeep\TermoDeep MainBoard\TermoDeep.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=-48.82
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

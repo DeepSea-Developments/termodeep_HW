@@ -1,0 +1,2 @@
+SPI=SCK,MISO,MOSI,Reset,FrameSync,Select
+UART1=TXD,RXD,DTR

@@ -1,0 +1,3 @@
+Ctrl_Peltier=IN1,IN2,EN,ADC_TEMP_A,ADC_TEMP_P
+Ctrl_Shoterless=PWMA,IN2,IN1,STBY
+I2C=SDA,SCL
